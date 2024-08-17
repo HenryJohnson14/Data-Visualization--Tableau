@@ -6,6 +6,11 @@ This project showcases a Tableau dashboard created to analyze bike-sharing patte
 
 The objective of this project is to explore and visualize bike-sharing data in London, providing insights into usage patterns, peak times, and the impact of weather conditions on bike-sharing activity.
 
+## Tools Used
+- Excel
+- Python (Google Collab)
+- Tableau
+
 ## Dataset
 
 The dataset used in this project is the "London Bike Sharing Dataset," which can be found on Kaggle here.
@@ -33,6 +38,13 @@ The Tableau dashboard includes the following visualizations:
 2. Seasonal Trends: Line charts illustrating the variation in bike-sharing activity across seasons.
 3. Impact of Weather: Scatter plots analyzing the relationship between weather conditions and bike rentals.
 4. Top Bike Usage Days: A bar chart highlighting the days with the highest bike-sharing activity.
+
+## References
+
+https://www.youtube.com/@mo-chen
+https://www.youtube.com/watch?v=nl9eZl1IOKI
+https://help.tableau.com/current/pro/desktop/en-us/dashboards.htm
+
 
 ## Contact
 
