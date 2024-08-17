@@ -41,9 +41,9 @@ The Tableau dashboard includes the following visualizations:
 
 ## References
 
-https://www.youtube.com/@mo-chen
-https://www.youtube.com/watch?v=nl9eZl1IOKI
-https://help.tableau.com/current/pro/desktop/en-us/dashboards.htm
+- https://www.youtube.com/@mo-chen
+- https://www.youtube.com/watch?v=nl9eZl1IOKI
+- https://help.tableau.com/current/pro/desktop/en-us/dashboards.htm
 
 
 ## Contact
